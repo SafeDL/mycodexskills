@@ -1,0 +1,4 @@
+interface:
+  display_name: "Patent Drafting"
+  short_description: "Draft Chinese patents and handle Word review threads locally."
+  default_prompt: "Use $patent-drafting to draft or review my Chinese patent materials, including native Word comment replies when requested."
